@@ -22,7 +22,7 @@ Find this line: ``"https://api.etherscan.io/api?module=gastracker&action=gasorac
 - Open [chrome://extensions/](chrome://extensions/)
 - Check **"Developer mode"** on the top right corner is toggled on
 - Click **"Load unpacked"** below "Extensions` on the top left
-- Select this fold
+- Select this folder
 
 
 ## Step 4: Share with people who needs it too
