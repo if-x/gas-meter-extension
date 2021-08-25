@@ -14,7 +14,9 @@ https://docs.etherscan.io/getting-started/viewing-api-usage-statistics
 
 ## Step 2: Put your API key in the script.js
 
-Find this line: ``"https://api.etherscan.io/api?module=gastracker&action=gasoracle&apikey=YOUR_ETHERSCAN_API_KEY"``, and replace "YOUR_ETHERSCAN_API_KEY" to your key. Simple like that.
+- Open `script.js` in this folder
+- Find this line: ``"https://api.etherscan.io/api?module=gastracker&action=gasoracle&apikey=YOUR_ETHERSCAN_API_KEY"``.
+- Replace "YOUR_ETHERSCAN_API_KEY" to your key. Simple like that.
 
 
 ## Step 3: Install it in your Chrome
