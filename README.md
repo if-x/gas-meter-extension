@@ -2,6 +2,7 @@
 
 A simply Chrome Extension to view Ethereum gas price using Etherscan API.
 
+
 ## Step 1: Obtain a Etherscan API key
 
 Register your account on Etherscan and generate an API key.
@@ -13,14 +14,16 @@ https://docs.etherscan.io/getting-started/viewing-api-usage-statistics
 
 ## Step 2: Put your API key in the script.js
 
-Find this line: ``"https://api.etherscan.io/api?module=gastracker&action=gasoracle&apikey=YOUR_ETHERSCAN_API_KEY"``, and replace YOUR_ETHERSCAN_API_KEY to your key. Simple like that.
+Find this line: ``"https://api.etherscan.io/api?module=gastracker&action=gasoracle&apikey=YOUR_ETHERSCAN_API_KEY"``, and replace "YOUR_ETHERSCAN_API_KEY" to your key. Simple like that.
+
 
 ## Step 3: Install it in your Chrome
 
 - Open [chrome://extensions/](chrome://extensions/)
-- Check **Developer mode** on the top right corner is toggled on
-- Click **Load unpacked** below "Extensions` on the top left
+- Check **"Developer mode"** on the top right corner is toggled on
+- Click **"Load unpacked"** below "Extensions` on the top left
 - Select this fold
+
 
 ## Step 4: Share with people who needs it too
 
